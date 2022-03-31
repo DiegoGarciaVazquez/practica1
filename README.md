@@ -1,3 +1,3 @@
 # Práctica 1
-* Hernandez Sanchez Oscar Jose 315250385
-* Martin Felipe Espinal Cruces 316155362
+* Fernandez Romero Adrian Felipe 316093404
+
